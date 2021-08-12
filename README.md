@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @quantumcoinfoundation
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About this Repository
+This repository provides the open-source code for the Quantum Coin and Quantum Coin BNB, allowing for partners within the Infinite 8 Ecosystem and beyond to set up APIs and other digital and real-world interactive applications.
 
-<!---
-quantumcoinfoundation/quantumcoinfoundation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It supports two block-chains:
+
+The Binance Smart Chain
+
+The Ethereum Block-chain
+
+Copyright (C) 2021. Quantum Coin Foundation. 
