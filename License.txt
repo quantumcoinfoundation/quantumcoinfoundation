@@ -1,0 +1,3 @@
+Quantum Coin is a successor of Ethereum, and operates under the GNU General Public License v3.0. 
+
+Quantum Coin BNB is a successor of the Binance Smart Chain, and operates under the GNU General Public License v3.0. 
